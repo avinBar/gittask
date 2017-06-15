@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 while(!true){}
+=======
+while(false){}
+>>>>>>> develop
+I decided to leave it as it was
