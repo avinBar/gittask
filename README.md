@@ -1,2 +1,2 @@
-# gittask
+# GIT_Task
 Home Task: VERSION CONTROL WITH GIT
